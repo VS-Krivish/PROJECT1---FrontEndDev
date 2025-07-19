@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-image {
+    width: 200px;
+    height: 50px;
+}
+
+.navbar-bg {
+    background-color: #0C0521;
+    color: #ffffff;
+}
+
+
+
+.bg-container-1 {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+}
+
+.home-image {
+    width: 100%;
+}
+
+.home-bg {
+    background-color: #0C0521;
+}
+
+.home-para {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.home-para-1 {
+    font-family: "Roboto";
+    color: #64FF33;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.home-para-2 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.home-para-3 {
+    text-decoration: line-through;
+}
+
+.home-para-4 {
+    font-family: "Roboto";
+    color: #64FF33;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.custom-button-1 {
+    background-color: transparent;
+    border-color: #ffffff;
+}
+
+
+
+.speaker-section {
+    background-color: #021A42;
+    width: 100%;
+}
+
+.head-1 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.logo-1 {
+    height: 80px;
+}
+
+
+
+.insiderKnowledge {
+    background-color: #1e3b4a;
+}
+
+.insiderKnowledge-1 {
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4e843d25fd4_NxtWave's%20Empowering%20Podcast%20Series%20%20to%20Shape%20your%20Dream%20Career.%20(1).png");
+}
+
+.head-2 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ik-para-1 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.ik-card-1 {
+    background-color: #1d3247;
+}
+
+.ik-images {
+    height: 200px;
+    width: 100%;
+}
+
+.custom-button-2 {
+    height: 40px;
+    width: 100px;
+    border-radius: 28px;
+    border-width: 0px;
+    background-color: #4c81b5;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 7px;
+}
+
+.logo-2 {
+    height: 20px;
+}
+
+.head-3 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.ik-para-2 {
+    font-family: "Roboto";
+    color: #05d3f7;
+    font-weight: normal;
+}
+
+.personalDetails {
+    background-color: #1d3247;
+}
+
+.personalDetails-images {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.logo-3 {
+    height: 35px;
+}
+
+.logo-4 {
+    height: 25px;
+}
+
+.ik-para-2 {
+    font-family: "Roboto";
+    color: #05d3f7;
+}
+
+.ik-para-3 {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.custom-button-3 {
+    background-color: transparent;
+    border-color: #ffffff;
+    border-radius: 25px;
+}
+
+.learn-more-toggle {
+    cursor: pointer;
+}
+
+
+
+.head-4 {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.logo-5 {
+    height: 25px;
+}
+
+.ep-para-1 {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+
+
+.claimyourfreeaccess-card {
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4e843d25fd4_NxtWave's%20Empowering%20Podcast%20Series%20%20to%20Shape%20your%20Dream%20Career.%20(1).png");
+}
+
+.claimyourfreeaccess-card-head {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.view-details-card {
+    font-family: "Roboto";
+    background-color: #071936;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.form-section {
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-box {
+    background-color: #1c1e26;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+    width: 100%;
+    max-width: 500px;
+}
+
+.form-control,
+.form-select {
+    background-color: #2b2d36;
+    color: white;
+    border: 1px solid #444;
+}
+
+.form-control {
+    color: #bbb;
+}
+
+.btn-primary {
+    background-color: #1e88e5;
+    border: none;
+}
+
+.footer-text-1 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.footer-text {
+    font-size: 10px;
+    color: #aaa;
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/645345c7c2106e1bd1c65a6c_Background%20String.png");
+}
+
+
+
+.body-1 {
+    background-color: #0f1624;
+    color: white;
+}
+
+.badge-box {
+    background-color: #ffbf00;
+    border-radius: 20px;
+    color: black;
+    padding: 8px;
+}
+
+.testimonial-box {
+    background-color: #1c1f2b;
+    border-radius: 10px;
+    padding: 16px;
+    margin-top: 16px;
+}
+
+.avatar-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.linkedin-icon {
+    width: 54px;
+    margin-left: auto;
+}
+
+.ss-para-1 {
+    font-weight: bold;
+}
